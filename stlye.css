@@ -1,4 +1,13 @@
 .banner {
-  height: 400px;
-  position: ;
+  display: block;
+  width: 400px;
+  margin: auto;
+}
+
+.sub_heading {
+  display: block;
+  height: 30px;
+  border: grey;
+  margin-left: auto;
+  margin-right: auto;
 }
