@@ -5,9 +5,11 @@
 }
 
 .sub_heading {
-  display: block;
-  height: 30px;
-  border: grey;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text {
+  text-align: center;
 }
