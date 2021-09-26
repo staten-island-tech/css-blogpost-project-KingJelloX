@@ -3,6 +3,7 @@
   width: 300px;
   margin: auto;
 }
+
 .heading-banner {
   display: block;
   position: sticky;
@@ -25,6 +26,7 @@
   overflow: hidden;
   position: relative;
   padding-right: 40px;
+  transition: transform 0.3s;
 }
 
 .image {
@@ -57,4 +59,8 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
+}
+
+.blogpost-block:hover {
+  transform: scale(1.05);
 }
